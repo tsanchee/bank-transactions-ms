@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: bank-transactions-ms
+  cloud:
+    config:
+      uri: http://localhost:8888
